@@ -25,3 +25,5 @@ Dir-Scaner — это консольный инструмент на Python дл
  ```
 
 
+##![Preview](preview.png)
+
