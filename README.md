@@ -23,7 +23,7 @@ Dir-Scaner — это консольный инструмент на Python дл
  ```bash
  python3 dir-scaner.py
  ```
+---
 
-
-##![Preview](preview.png)
+![Preview](preview.png)
 
