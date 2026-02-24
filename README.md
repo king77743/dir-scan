@@ -20,6 +20,8 @@ Dir-Scaner — это консольный инструмент на Python дл
  git clone https://github.com/king77743/dir-scan
  ```
 2. Запустите через терминал:
-   ```bash
-   python3 dir-scaner.py
-   ```
+ ```bash
+ python3 dir-scaner.py
+ ```
+
+
