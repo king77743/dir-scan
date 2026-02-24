@@ -16,9 +16,9 @@ Dir-Scaner — это консольный инструмент на Python дл
 Скрипт использует только стандартные библиотеки Python и не требует установки дополнительных зависимостей.
 
 1.Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/king77743/dir-scan
-   ```
+ ```bash
+ git clone https://github.com/king77743/dir-scan
+ ```
 2. Запустите через терминал:
    ```bash
    python3 dir-scaner.py
