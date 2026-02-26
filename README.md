@@ -21,8 +21,9 @@ Dir-Scaner — это консольный инструмент на Python дл
  ```
 2. Запустите через терминал:
  ```bash
- python3 dir-scaner.py
+ python3 dir_scaner.py
  ```
+
 
 Вывод в консоль
 ---
